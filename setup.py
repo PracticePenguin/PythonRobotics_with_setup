@@ -5,5 +5,5 @@ setup(name='PythonRobotics',
       description='PythonRobotics modules',
       author='Atsushi Sakai',
       url='https://github.com/AtsushiSakai/PythonRobotics.git',
-      packages=['PathPlanning'],
+      packages=['PathPlanning', 'PathPlanning.Dijkstra'],
      )
