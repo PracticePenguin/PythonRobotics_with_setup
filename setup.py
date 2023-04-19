@@ -6,5 +6,5 @@ setup(name='PythonRobotics',
       description='PythonRobotics modules',
       author='Atsushi Sakai',
       url='https://github.com/AtsushiSakai/PythonRobotics.git',
-      packages=find_namespace_packages(exclude=["tests"]),
+      packages=find_namespace_packages(include=["PathPlanning"]),
      )
