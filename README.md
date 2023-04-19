@@ -5,4 +5,4 @@ Additionally, this repo includes a setup.py file that allows installing with "pi
 Currently only these directories can be imported:<br />
   -PathPlanning<br />
 <br />
-The contents of the PythonRobotics directories will not be updated.
+The contents of the PythonRobotics directories are from 4.19.2023.
